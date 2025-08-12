@@ -427,8 +427,8 @@ copies or substantial portions of the Software.
 
 **⭐ Se este projeto foi útil para você, considere dar uma estrela!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/IAModelPyTorch?style=social)](https://github.com/MuketaUeda/IAModelPyTorch)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/IAModelPyTorch?style=social)](https://github.com/MuketaUeda/IAModelPyTorch)
+[![GitHub stars](https://img.shields.io/github/stars/MuketaUeda/IAModelPyTorch?style=social)](https://github.com/MuketaUeda/IAModelPyTorch)
+[![GitHub forks](https://img.shields.io/github/forks/MuketaUeda/IAModelPyTorch?style=social)](https://github.com/MuketaUeda/IAModelPyTorch)
 
 **Feito com ❤️ e ☕**
 
