@@ -9,7 +9,7 @@
 
 **Um classificador inteligente de cartas de baralho usando Deep Learning**
 
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/gabrielrosati/pytorch-agent/edit)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/gabrielrosati/pytorch-agent)
 
 </div>
 
