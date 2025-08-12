@@ -9,8 +9,7 @@
 
 **Um classificador inteligente de cartas de baralho usando Deep Learning**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/IAModelPyTorch)
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/yourusername/playing-card-classification)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/gabrielrosati/pytorch-agent/edit)
 
 </div>
 
